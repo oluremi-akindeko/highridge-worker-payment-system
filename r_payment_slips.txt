@@ -1,0 +1,2409 @@
+HIGHRIDGE CONSTRUCTION COMPANY
+WEEKLY PAYMENT SLIPS
+==============================
+Worker ID: HC001
+Worker Name: Worker 1
+Gender: Male
+Weekly Salary: $33,644
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC002
+Worker Name: Worker 2
+Gender: Male
+Weekly Salary: $26,656
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC003
+Worker Name: Worker 3
+Gender: Female
+Weekly Salary: $6,251
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC004
+Worker Name: Worker 4
+Gender: Female
+Weekly Salary: $13,825
+Employee Level: A5-F
+------------------------------
+Worker ID: HC005
+Worker Name: Worker 5
+Gender: Male
+Weekly Salary: $18,439
+Employee Level: A1
+------------------------------
+Worker ID: HC006
+Worker Name: Worker 6
+Gender: Male
+Weekly Salary: $19,359
+Employee Level: A1
+------------------------------
+Worker ID: HC007
+Worker Name: Worker 7
+Gender: Male
+Weekly Salary: $21,739
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC008
+Worker Name: Worker 8
+Gender: Male
+Weekly Salary: $33,836
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC009
+Worker Name: Worker 9
+Gender: Female
+Weekly Salary: $12,699
+Employee Level: A5-F
+------------------------------
+Worker ID: HC010
+Worker Name: Worker 10
+Gender: Female
+Weekly Salary: $8,953
+Employee Level: A5-F
+------------------------------
+Worker ID: HC011
+Worker Name: Worker 11
+Gender: Male
+Weekly Salary: $14,090
+Employee Level: A1
+------------------------------
+Worker ID: HC012
+Worker Name: Worker 12
+Gender: Male
+Weekly Salary: $34,272
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC013
+Worker Name: Worker 13
+Gender: Male
+Weekly Salary: $5,931
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC014
+Worker Name: Worker 14
+Gender: Male
+Weekly Salary: $31,590
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC015
+Worker Name: Worker 15
+Gender: Male
+Weekly Salary: $27,020
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC016
+Worker Name: Worker 16
+Gender: Female
+Weekly Salary: $25,385
+Employee Level: A5-F
+------------------------------
+Worker ID: HC017
+Worker Name: Worker 17
+Gender: Female
+Weekly Salary: $17,135
+Employee Level: A5-F
+------------------------------
+Worker ID: HC018
+Worker Name: Worker 18
+Gender: Male
+Weekly Salary: $26,817
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC019
+Worker Name: Worker 19
+Gender: Male
+Weekly Salary: $18,609
+Employee Level: A1
+------------------------------
+Worker ID: HC020
+Worker Name: Worker 20
+Gender: Female
+Weekly Salary: $12,325
+Employee Level: A5-F
+------------------------------
+Worker ID: HC021
+Worker Name: Worker 21
+Gender: Male
+Weekly Salary: $33,558
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC022
+Worker Name: Worker 22
+Gender: Female
+Weekly Salary: $33,295
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC023
+Worker Name: Worker 23
+Gender: Female
+Weekly Salary: $30,411
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC024
+Worker Name: Worker 24
+Gender: Female
+Weekly Salary: $12,788
+Employee Level: A5-F
+------------------------------
+Worker ID: HC025
+Worker Name: Worker 25
+Gender: Female
+Weekly Salary: $27,724
+Employee Level: A5-F
+------------------------------
+Worker ID: HC026
+Worker Name: Worker 26
+Gender: Female
+Weekly Salary: $23,657
+Employee Level: A5-F
+------------------------------
+Worker ID: HC027
+Worker Name: Worker 27
+Gender: Female
+Weekly Salary: $21,305
+Employee Level: A5-F
+------------------------------
+Worker ID: HC028
+Worker Name: Worker 28
+Gender: Male
+Weekly Salary: $16,223
+Employee Level: A1
+------------------------------
+Worker ID: HC029
+Worker Name: Worker 29
+Gender: Male
+Weekly Salary: $5,944
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC030
+Worker Name: Worker 30
+Gender: Male
+Weekly Salary: $22,009
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC031
+Worker Name: Worker 31
+Gender: Female
+Weekly Salary: $27,917
+Employee Level: A5-F
+------------------------------
+Worker ID: HC032
+Worker Name: Worker 32
+Gender: Female
+Weekly Salary: $22,779
+Employee Level: A5-F
+------------------------------
+Worker ID: HC033
+Worker Name: Worker 33
+Gender: Male
+Weekly Salary: $17,661
+Employee Level: A1
+------------------------------
+Worker ID: HC034
+Worker Name: Worker 34
+Gender: Male
+Weekly Salary: $7,817
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC035
+Worker Name: Worker 35
+Gender: Male
+Weekly Salary: $19,181
+Employee Level: A1
+------------------------------
+Worker ID: HC036
+Worker Name: Worker 36
+Gender: Female
+Weekly Salary: $17,937
+Employee Level: A5-F
+------------------------------
+Worker ID: HC037
+Worker Name: Worker 37
+Gender: Female
+Weekly Salary: $5,516
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC038
+Worker Name: Worker 38
+Gender: Male
+Weekly Salary: $5,944
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC039
+Worker Name: Worker 39
+Gender: Male
+Weekly Salary: $10,347
+Employee Level: A1
+------------------------------
+Worker ID: HC040
+Worker Name: Worker 40
+Gender: Male
+Weekly Salary: $28,529
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC041
+Worker Name: Worker 41
+Gender: Male
+Weekly Salary: $23,076
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC042
+Worker Name: Worker 42
+Gender: Female
+Weekly Salary: $20,315
+Employee Level: A5-F
+------------------------------
+Worker ID: HC043
+Worker Name: Worker 43
+Gender: Male
+Weekly Salary: $10,610
+Employee Level: A1
+------------------------------
+Worker ID: HC044
+Worker Name: Worker 44
+Gender: Male
+Weekly Salary: $15,972
+Employee Level: A1
+------------------------------
+Worker ID: HC045
+Worker Name: Worker 45
+Gender: Female
+Weekly Salary: $18,668
+Employee Level: A5-F
+------------------------------
+Worker ID: HC046
+Worker Name: Worker 46
+Gender: Female
+Weekly Salary: $32,895
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC047
+Worker Name: Worker 47
+Gender: Female
+Weekly Salary: $26,828
+Employee Level: A5-F
+------------------------------
+Worker ID: HC048
+Worker Name: Worker 48
+Gender: Female
+Weekly Salary: $20,989
+Employee Level: A5-F
+------------------------------
+Worker ID: HC049
+Worker Name: Worker 49
+Gender: Female
+Weekly Salary: $13,273
+Employee Level: A5-F
+------------------------------
+Worker ID: HC050
+Worker Name: Worker 50
+Gender: Female
+Weekly Salary: $19,192
+Employee Level: A5-F
+------------------------------
+Worker ID: HC051
+Worker Name: Worker 51
+Gender: Female
+Weekly Salary: $33,996
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC052
+Worker Name: Worker 52
+Gender: Female
+Weekly Salary: $20,719
+Employee Level: A5-F
+------------------------------
+Worker ID: HC053
+Worker Name: Worker 53
+Gender: Male
+Weekly Salary: $7,343
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC054
+Worker Name: Worker 54
+Gender: Male
+Weekly Salary: $12,139
+Employee Level: A1
+------------------------------
+Worker ID: HC055
+Worker Name: Worker 55
+Gender: Male
+Weekly Salary: $21,483
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC056
+Worker Name: Worker 56
+Gender: Male
+Weekly Salary: $7,345
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC057
+Worker Name: Worker 57
+Gender: Female
+Weekly Salary: $5,090
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC058
+Worker Name: Worker 58
+Gender: Male
+Weekly Salary: $12,348
+Employee Level: A1
+------------------------------
+Worker ID: HC059
+Worker Name: Worker 59
+Gender: Female
+Weekly Salary: $28,378
+Employee Level: A5-F
+------------------------------
+Worker ID: HC060
+Worker Name: Worker 60
+Gender: Female
+Weekly Salary: $9,815
+Employee Level: A5-F
+------------------------------
+Worker ID: HC061
+Worker Name: Worker 61
+Gender: Female
+Weekly Salary: $19,395
+Employee Level: A5-F
+------------------------------
+Worker ID: HC062
+Worker Name: Worker 62
+Gender: Male
+Weekly Salary: $32,472
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC063
+Worker Name: Worker 63
+Gender: Female
+Weekly Salary: $20,304
+Employee Level: A5-F
+------------------------------
+Worker ID: HC064
+Worker Name: Worker 64
+Gender: Male
+Weekly Salary: $31,452
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC065
+Worker Name: Worker 65
+Gender: Female
+Weekly Salary: $13,618
+Employee Level: A5-F
+------------------------------
+Worker ID: HC066
+Worker Name: Worker 66
+Gender: Male
+Weekly Salary: $27,969
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC067
+Worker Name: Worker 67
+Gender: Female
+Weekly Salary: $26,063
+Employee Level: A5-F
+------------------------------
+Worker ID: HC068
+Worker Name: Worker 68
+Gender: Male
+Weekly Salary: $22,334
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC069
+Worker Name: Worker 69
+Gender: Female
+Weekly Salary: $14,728
+Employee Level: A5-F
+------------------------------
+Worker ID: HC070
+Worker Name: Worker 70
+Gender: Male
+Weekly Salary: $23,308
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC071
+Worker Name: Worker 71
+Gender: Male
+Weekly Salary: $25,790
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC072
+Worker Name: Worker 72
+Gender: Female
+Weekly Salary: $34,145
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC073
+Worker Name: Worker 73
+Gender: Male
+Weekly Salary: $14,769
+Employee Level: A1
+------------------------------
+Worker ID: HC074
+Worker Name: Worker 74
+Gender: Female
+Weekly Salary: $26,239
+Employee Level: A5-F
+------------------------------
+Worker ID: HC075
+Worker Name: Worker 75
+Gender: Male
+Weekly Salary: $30,850
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC076
+Worker Name: Worker 76
+Gender: Male
+Weekly Salary: $23,076
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC077
+Worker Name: Worker 77
+Gender: Male
+Weekly Salary: $6,906
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC078
+Worker Name: Worker 78
+Gender: Male
+Weekly Salary: $16,807
+Employee Level: A1
+------------------------------
+Worker ID: HC079
+Worker Name: Worker 79
+Gender: Male
+Weekly Salary: $8,309
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC080
+Worker Name: Worker 80
+Gender: Female
+Weekly Salary: $17,910
+Employee Level: A5-F
+------------------------------
+Worker ID: HC081
+Worker Name: Worker 81
+Gender: Female
+Weekly Salary: $16,767
+Employee Level: A5-F
+------------------------------
+Worker ID: HC082
+Worker Name: Worker 82
+Gender: Male
+Weekly Salary: $25,778
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC083
+Worker Name: Worker 83
+Gender: Female
+Weekly Salary: $17,196
+Employee Level: A5-F
+------------------------------
+Worker ID: HC084
+Worker Name: Worker 84
+Gender: Female
+Weekly Salary: $31,992
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC085
+Worker Name: Worker 85
+Gender: Female
+Weekly Salary: $33,016
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC086
+Worker Name: Worker 86
+Gender: Female
+Weekly Salary: $26,278
+Employee Level: A5-F
+------------------------------
+Worker ID: HC087
+Worker Name: Worker 87
+Gender: Female
+Weekly Salary: $24,293
+Employee Level: A5-F
+------------------------------
+Worker ID: HC088
+Worker Name: Worker 88
+Gender: Female
+Weekly Salary: $32,397
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC089
+Worker Name: Worker 89
+Gender: Female
+Weekly Salary: $25,773
+Employee Level: A5-F
+------------------------------
+Worker ID: HC090
+Worker Name: Worker 90
+Gender: Male
+Weekly Salary: $20,877
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC091
+Worker Name: Worker 91
+Gender: Female
+Weekly Salary: $32,387
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC092
+Worker Name: Worker 92
+Gender: Male
+Weekly Salary: $13,737
+Employee Level: A1
+------------------------------
+Worker ID: HC093
+Worker Name: Worker 93
+Gender: Female
+Weekly Salary: $17,758
+Employee Level: A5-F
+------------------------------
+Worker ID: HC094
+Worker Name: Worker 94
+Gender: Female
+Weekly Salary: $13,445
+Employee Level: A5-F
+------------------------------
+Worker ID: HC095
+Worker Name: Worker 95
+Gender: Female
+Weekly Salary: $9,735
+Employee Level: A5-F
+------------------------------
+Worker ID: HC096
+Worker Name: Worker 96
+Gender: Female
+Weekly Salary: $7,088
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC097
+Worker Name: Worker 97
+Gender: Male
+Weekly Salary: $20,937
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC098
+Worker Name: Worker 98
+Gender: Female
+Weekly Salary: $30,239
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC099
+Worker Name: Worker 99
+Gender: Female
+Weekly Salary: $28,064
+Employee Level: A5-F
+------------------------------
+Worker ID: HC100
+Worker Name: Worker 100
+Gender: Female
+Weekly Salary: $15,346
+Employee Level: A5-F
+------------------------------
+Worker ID: HC101
+Worker Name: Worker 101
+Gender: Male
+Weekly Salary: $21,545
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC102
+Worker Name: Worker 102
+Gender: Female
+Weekly Salary: $7,753
+Employee Level: A5-F
+------------------------------
+Worker ID: HC103
+Worker Name: Worker 103
+Gender: Male
+Weekly Salary: $27,047
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC104
+Worker Name: Worker 104
+Gender: Male
+Weekly Salary: $34,577
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC105
+Worker Name: Worker 105
+Gender: Male
+Weekly Salary: $9,891
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC106
+Worker Name: Worker 106
+Gender: Female
+Weekly Salary: $8,108
+Employee Level: A5-F
+------------------------------
+Worker ID: HC107
+Worker Name: Worker 107
+Gender: Female
+Weekly Salary: $16,248
+Employee Level: A5-F
+------------------------------
+Worker ID: HC108
+Worker Name: Worker 108
+Gender: Male
+Weekly Salary: $25,557
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC109
+Worker Name: Worker 109
+Gender: Female
+Weekly Salary: $25,123
+Employee Level: A5-F
+------------------------------
+Worker ID: HC110
+Worker Name: Worker 110
+Gender: Female
+Weekly Salary: $8,168
+Employee Level: A5-F
+------------------------------
+Worker ID: HC111
+Worker Name: Worker 111
+Gender: Male
+Weekly Salary: $28,010
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC112
+Worker Name: Worker 112
+Gender: Female
+Weekly Salary: $24,929
+Employee Level: A5-F
+------------------------------
+Worker ID: HC113
+Worker Name: Worker 113
+Gender: Male
+Weekly Salary: $24,948
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC114
+Worker Name: Worker 114
+Gender: Male
+Weekly Salary: $29,243
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC115
+Worker Name: Worker 115
+Gender: Female
+Weekly Salary: $32,615
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC116
+Worker Name: Worker 116
+Gender: Male
+Weekly Salary: $9,026
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC117
+Worker Name: Worker 117
+Gender: Male
+Weekly Salary: $18,853
+Employee Level: A1
+------------------------------
+Worker ID: HC118
+Worker Name: Worker 118
+Gender: Female
+Weekly Salary: $15,451
+Employee Level: A5-F
+------------------------------
+Worker ID: HC119
+Worker Name: Worker 119
+Gender: Male
+Weekly Salary: $33,872
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC120
+Worker Name: Worker 120
+Gender: Male
+Weekly Salary: $17,349
+Employee Level: A1
+------------------------------
+Worker ID: HC121
+Worker Name: Worker 121
+Gender: Male
+Weekly Salary: $7,014
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC122
+Worker Name: Worker 122
+Gender: Female
+Weekly Salary: $24,579
+Employee Level: A5-F
+------------------------------
+Worker ID: HC123
+Worker Name: Worker 123
+Gender: Male
+Weekly Salary: $7,608
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC124
+Worker Name: Worker 124
+Gender: Male
+Weekly Salary: $12,795
+Employee Level: A1
+------------------------------
+Worker ID: HC125
+Worker Name: Worker 125
+Gender: Male
+Weekly Salary: $13,080
+Employee Level: A1
+------------------------------
+Worker ID: HC126
+Worker Name: Worker 126
+Gender: Male
+Weekly Salary: $34,211
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC127
+Worker Name: Worker 127
+Gender: Female
+Weekly Salary: $13,862
+Employee Level: A5-F
+------------------------------
+Worker ID: HC128
+Worker Name: Worker 128
+Gender: Female
+Weekly Salary: $18,438
+Employee Level: A5-F
+------------------------------
+Worker ID: HC129
+Worker Name: Worker 129
+Gender: Female
+Weekly Salary: $30,346
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC130
+Worker Name: Worker 130
+Gender: Male
+Weekly Salary: $23,700
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC131
+Worker Name: Worker 131
+Gender: Female
+Weekly Salary: $13,896
+Employee Level: A5-F
+------------------------------
+Worker ID: HC132
+Worker Name: Worker 132
+Gender: Female
+Weekly Salary: $27,066
+Employee Level: A5-F
+------------------------------
+Worker ID: HC133
+Worker Name: Worker 133
+Gender: Female
+Weekly Salary: $31,462
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC134
+Worker Name: Worker 134
+Gender: Male
+Weekly Salary: $29,110
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC135
+Worker Name: Worker 135
+Gender: Female
+Weekly Salary: $8,269
+Employee Level: A5-F
+------------------------------
+Worker ID: HC136
+Worker Name: Worker 136
+Gender: Male
+Weekly Salary: $26,513
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC137
+Worker Name: Worker 137
+Gender: Male
+Weekly Salary: $6,224
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC138
+Worker Name: Worker 138
+Gender: Male
+Weekly Salary: $6,944
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC139
+Worker Name: Worker 139
+Gender: Male
+Weekly Salary: $20,185
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC140
+Worker Name: Worker 140
+Gender: Male
+Weekly Salary: $30,326
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC141
+Worker Name: Worker 141
+Gender: Female
+Weekly Salary: $10,883
+Employee Level: A5-F
+------------------------------
+Worker ID: HC142
+Worker Name: Worker 142
+Gender: Male
+Weekly Salary: $11,748
+Employee Level: A1
+------------------------------
+Worker ID: HC143
+Worker Name: Worker 143
+Gender: Male
+Weekly Salary: $7,131
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC144
+Worker Name: Worker 144
+Gender: Male
+Weekly Salary: $34,135
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC145
+Worker Name: Worker 145
+Gender: Female
+Weekly Salary: $26,463
+Employee Level: A5-F
+------------------------------
+Worker ID: HC146
+Worker Name: Worker 146
+Gender: Male
+Weekly Salary: $33,220
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC147
+Worker Name: Worker 147
+Gender: Female
+Weekly Salary: $15,410
+Employee Level: A5-F
+------------------------------
+Worker ID: HC148
+Worker Name: Worker 148
+Gender: Male
+Weekly Salary: $25,117
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC149
+Worker Name: Worker 149
+Gender: Female
+Weekly Salary: $11,099
+Employee Level: A5-F
+------------------------------
+Worker ID: HC150
+Worker Name: Worker 150
+Gender: Male
+Weekly Salary: $33,213
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC151
+Worker Name: Worker 151
+Gender: Male
+Weekly Salary: $15,041
+Employee Level: A1
+------------------------------
+Worker ID: HC152
+Worker Name: Worker 152
+Gender: Male
+Weekly Salary: $33,202
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC153
+Worker Name: Worker 153
+Gender: Male
+Weekly Salary: $14,300
+Employee Level: A1
+------------------------------
+Worker ID: HC154
+Worker Name: Worker 154
+Gender: Female
+Weekly Salary: $9,248
+Employee Level: A5-F
+------------------------------
+Worker ID: HC155
+Worker Name: Worker 155
+Gender: Female
+Weekly Salary: $28,488
+Employee Level: A5-F
+------------------------------
+Worker ID: HC156
+Worker Name: Worker 156
+Gender: Female
+Weekly Salary: $19,575
+Employee Level: A5-F
+------------------------------
+Worker ID: HC157
+Worker Name: Worker 157
+Gender: Male
+Weekly Salary: $32,786
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC158
+Worker Name: Worker 158
+Gender: Female
+Weekly Salary: $15,513
+Employee Level: A5-F
+------------------------------
+Worker ID: HC159
+Worker Name: Worker 159
+Gender: Male
+Weekly Salary: $16,489
+Employee Level: A1
+------------------------------
+Worker ID: HC160
+Worker Name: Worker 160
+Gender: Female
+Weekly Salary: $7,217
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC161
+Worker Name: Worker 161
+Gender: Female
+Weekly Salary: $25,627
+Employee Level: A5-F
+------------------------------
+Worker ID: HC162
+Worker Name: Worker 162
+Gender: Male
+Weekly Salary: $31,812
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC163
+Worker Name: Worker 163
+Gender: Male
+Weekly Salary: $24,568
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC164
+Worker Name: Worker 164
+Gender: Male
+Weekly Salary: $7,653
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC165
+Worker Name: Worker 165
+Gender: Male
+Weekly Salary: $34,781
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC166
+Worker Name: Worker 166
+Gender: Female
+Weekly Salary: $25,081
+Employee Level: A5-F
+------------------------------
+Worker ID: HC167
+Worker Name: Worker 167
+Gender: Female
+Weekly Salary: $33,840
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC168
+Worker Name: Worker 168
+Gender: Male
+Weekly Salary: $9,827
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC169
+Worker Name: Worker 169
+Gender: Female
+Weekly Salary: $20,721
+Employee Level: A5-F
+------------------------------
+Worker ID: HC170
+Worker Name: Worker 170
+Gender: Male
+Weekly Salary: $17,158
+Employee Level: A1
+------------------------------
+Worker ID: HC171
+Worker Name: Worker 171
+Gender: Male
+Weekly Salary: $8,944
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC172
+Worker Name: Worker 172
+Gender: Male
+Weekly Salary: $23,322
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC173
+Worker Name: Worker 173
+Gender: Female
+Weekly Salary: $14,428
+Employee Level: A5-F
+------------------------------
+Worker ID: HC174
+Worker Name: Worker 174
+Gender: Female
+Weekly Salary: $12,593
+Employee Level: A5-F
+------------------------------
+Worker ID: HC175
+Worker Name: Worker 175
+Gender: Female
+Weekly Salary: $30,560
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC176
+Worker Name: Worker 176
+Gender: Female
+Weekly Salary: $10,946
+Employee Level: A5-F
+------------------------------
+Worker ID: HC177
+Worker Name: Worker 177
+Gender: Male
+Weekly Salary: $21,925
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC178
+Worker Name: Worker 178
+Gender: Male
+Weekly Salary: $18,780
+Employee Level: A1
+------------------------------
+Worker ID: HC179
+Worker Name: Worker 179
+Gender: Female
+Weekly Salary: $18,204
+Employee Level: A5-F
+------------------------------
+Worker ID: HC180
+Worker Name: Worker 180
+Gender: Female
+Weekly Salary: $8,630
+Employee Level: A5-F
+------------------------------
+Worker ID: HC181
+Worker Name: Worker 181
+Gender: Male
+Weekly Salary: $10,321
+Employee Level: A1
+------------------------------
+Worker ID: HC182
+Worker Name: Worker 182
+Gender: Female
+Weekly Salary: $28,921
+Employee Level: A5-F
+------------------------------
+Worker ID: HC183
+Worker Name: Worker 183
+Gender: Male
+Weekly Salary: $11,534
+Employee Level: A1
+------------------------------
+Worker ID: HC184
+Worker Name: Worker 184
+Gender: Female
+Weekly Salary: $11,411
+Employee Level: A5-F
+------------------------------
+Worker ID: HC185
+Worker Name: Worker 185
+Gender: Male
+Weekly Salary: $16,058
+Employee Level: A1
+------------------------------
+Worker ID: HC186
+Worker Name: Worker 186
+Gender: Female
+Weekly Salary: $28,672
+Employee Level: A5-F
+------------------------------
+Worker ID: HC187
+Worker Name: Worker 187
+Gender: Male
+Weekly Salary: $15,276
+Employee Level: A1
+------------------------------
+Worker ID: HC188
+Worker Name: Worker 188
+Gender: Female
+Weekly Salary: $19,498
+Employee Level: A5-F
+------------------------------
+Worker ID: HC189
+Worker Name: Worker 189
+Gender: Female
+Weekly Salary: $31,669
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC190
+Worker Name: Worker 190
+Gender: Male
+Weekly Salary: $9,954
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC191
+Worker Name: Worker 191
+Gender: Female
+Weekly Salary: $5,867
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC192
+Worker Name: Worker 192
+Gender: Female
+Weekly Salary: $32,444
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC193
+Worker Name: Worker 193
+Gender: Female
+Weekly Salary: $12,077
+Employee Level: A5-F
+------------------------------
+Worker ID: HC194
+Worker Name: Worker 194
+Gender: Female
+Weekly Salary: $22,364
+Employee Level: A5-F
+------------------------------
+Worker ID: HC195
+Worker Name: Worker 195
+Gender: Female
+Weekly Salary: $30,290
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC196
+Worker Name: Worker 196
+Gender: Female
+Weekly Salary: $10,344
+Employee Level: A5-F
+------------------------------
+Worker ID: HC197
+Worker Name: Worker 197
+Gender: Male
+Weekly Salary: $19,541
+Employee Level: A1
+------------------------------
+Worker ID: HC198
+Worker Name: Worker 198
+Gender: Female
+Weekly Salary: $15,016
+Employee Level: A5-F
+------------------------------
+Worker ID: HC199
+Worker Name: Worker 199
+Gender: Male
+Weekly Salary: $23,211
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC200
+Worker Name: Worker 200
+Gender: Male
+Weekly Salary: $8,935
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC201
+Worker Name: Worker 201
+Gender: Female
+Weekly Salary: $25,415
+Employee Level: A5-F
+------------------------------
+Worker ID: HC202
+Worker Name: Worker 202
+Gender: Male
+Weekly Salary: $9,742
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC203
+Worker Name: Worker 203
+Gender: Female
+Weekly Salary: $27,276
+Employee Level: A5-F
+------------------------------
+Worker ID: HC204
+Worker Name: Worker 204
+Gender: Male
+Weekly Salary: $5,927
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC205
+Worker Name: Worker 205
+Gender: Female
+Weekly Salary: $7,982
+Employee Level: A5-F
+------------------------------
+Worker ID: HC206
+Worker Name: Worker 206
+Gender: Male
+Weekly Salary: $10,497
+Employee Level: A1
+------------------------------
+Worker ID: HC207
+Worker Name: Worker 207
+Gender: Female
+Weekly Salary: $6,077
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC208
+Worker Name: Worker 208
+Gender: Female
+Weekly Salary: $19,875
+Employee Level: A5-F
+------------------------------
+Worker ID: HC209
+Worker Name: Worker 209
+Gender: Male
+Weekly Salary: $14,838
+Employee Level: A1
+------------------------------
+Worker ID: HC210
+Worker Name: Worker 210
+Gender: Male
+Weekly Salary: $28,763
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC211
+Worker Name: Worker 211
+Gender: Male
+Weekly Salary: $24,720
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC212
+Worker Name: Worker 212
+Gender: Female
+Weekly Salary: $14,353
+Employee Level: A5-F
+------------------------------
+Worker ID: HC213
+Worker Name: Worker 213
+Gender: Male
+Weekly Salary: $15,866
+Employee Level: A1
+------------------------------
+Worker ID: HC214
+Worker Name: Worker 214
+Gender: Female
+Weekly Salary: $33,241
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC215
+Worker Name: Worker 215
+Gender: Male
+Weekly Salary: $17,907
+Employee Level: A1
+------------------------------
+Worker ID: HC216
+Worker Name: Worker 216
+Gender: Female
+Weekly Salary: $31,696
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC217
+Worker Name: Worker 217
+Gender: Male
+Weekly Salary: $21,718
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC218
+Worker Name: Worker 218
+Gender: Female
+Weekly Salary: $30,846
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC219
+Worker Name: Worker 219
+Gender: Male
+Weekly Salary: $30,749
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC220
+Worker Name: Worker 220
+Gender: Male
+Weekly Salary: $26,523
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC221
+Worker Name: Worker 221
+Gender: Female
+Weekly Salary: $12,521
+Employee Level: A5-F
+------------------------------
+Worker ID: HC222
+Worker Name: Worker 222
+Gender: Male
+Weekly Salary: $26,008
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC223
+Worker Name: Worker 223
+Gender: Female
+Weekly Salary: $30,810
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC224
+Worker Name: Worker 224
+Gender: Female
+Weekly Salary: $27,800
+Employee Level: A5-F
+------------------------------
+Worker ID: HC225
+Worker Name: Worker 225
+Gender: Female
+Weekly Salary: $31,953
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC226
+Worker Name: Worker 226
+Gender: Male
+Weekly Salary: $11,322
+Employee Level: A1
+------------------------------
+Worker ID: HC227
+Worker Name: Worker 227
+Gender: Male
+Weekly Salary: $16,337
+Employee Level: A1
+------------------------------
+Worker ID: HC228
+Worker Name: Worker 228
+Gender: Female
+Weekly Salary: $20,265
+Employee Level: A5-F
+------------------------------
+Worker ID: HC229
+Worker Name: Worker 229
+Gender: Female
+Weekly Salary: $27,339
+Employee Level: A5-F
+------------------------------
+Worker ID: HC230
+Worker Name: Worker 230
+Gender: Male
+Weekly Salary: $30,945
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC231
+Worker Name: Worker 231
+Gender: Male
+Weekly Salary: $30,830
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC232
+Worker Name: Worker 232
+Gender: Male
+Weekly Salary: $10,485
+Employee Level: A1
+------------------------------
+Worker ID: HC233
+Worker Name: Worker 233
+Gender: Female
+Weekly Salary: $27,635
+Employee Level: A5-F
+------------------------------
+Worker ID: HC234
+Worker Name: Worker 234
+Gender: Male
+Weekly Salary: $17,011
+Employee Level: A1
+------------------------------
+Worker ID: HC235
+Worker Name: Worker 235
+Gender: Male
+Weekly Salary: $24,997
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC236
+Worker Name: Worker 236
+Gender: Female
+Weekly Salary: $7,150
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC237
+Worker Name: Worker 237
+Gender: Male
+Weekly Salary: $16,608
+Employee Level: A1
+------------------------------
+Worker ID: HC238
+Worker Name: Worker 238
+Gender: Female
+Weekly Salary: $25,389
+Employee Level: A5-F
+------------------------------
+Worker ID: HC239
+Worker Name: Worker 239
+Gender: Male
+Weekly Salary: $30,783
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC240
+Worker Name: Worker 240
+Gender: Male
+Weekly Salary: $14,605
+Employee Level: A1
+------------------------------
+Worker ID: HC241
+Worker Name: Worker 241
+Gender: Male
+Weekly Salary: $21,580
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC242
+Worker Name: Worker 242
+Gender: Female
+Weekly Salary: $22,599
+Employee Level: A5-F
+------------------------------
+Worker ID: HC243
+Worker Name: Worker 243
+Gender: Female
+Weekly Salary: $25,014
+Employee Level: A5-F
+------------------------------
+Worker ID: HC244
+Worker Name: Worker 244
+Gender: Male
+Weekly Salary: $26,928
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC245
+Worker Name: Worker 245
+Gender: Female
+Weekly Salary: $22,456
+Employee Level: A5-F
+------------------------------
+Worker ID: HC246
+Worker Name: Worker 246
+Gender: Female
+Weekly Salary: $10,141
+Employee Level: A5-F
+------------------------------
+Worker ID: HC247
+Worker Name: Worker 247
+Gender: Male
+Weekly Salary: $33,394
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC248
+Worker Name: Worker 248
+Gender: Male
+Weekly Salary: $13,323
+Employee Level: A1
+------------------------------
+Worker ID: HC249
+Worker Name: Worker 249
+Gender: Male
+Weekly Salary: $17,474
+Employee Level: A1
+------------------------------
+Worker ID: HC250
+Worker Name: Worker 250
+Gender: Male
+Weekly Salary: $32,557
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC251
+Worker Name: Worker 251
+Gender: Male
+Weekly Salary: $22,466
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC252
+Worker Name: Worker 252
+Gender: Male
+Weekly Salary: $20,017
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC253
+Worker Name: Worker 253
+Gender: Female
+Weekly Salary: $14,619
+Employee Level: A5-F
+------------------------------
+Worker ID: HC254
+Worker Name: Worker 254
+Gender: Female
+Weekly Salary: $11,230
+Employee Level: A5-F
+------------------------------
+Worker ID: HC255
+Worker Name: Worker 255
+Gender: Female
+Weekly Salary: $7,040
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC256
+Worker Name: Worker 256
+Gender: Male
+Weekly Salary: $18,971
+Employee Level: A1
+------------------------------
+Worker ID: HC257
+Worker Name: Worker 257
+Gender: Male
+Weekly Salary: $6,197
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC258
+Worker Name: Worker 258
+Gender: Female
+Weekly Salary: $9,098
+Employee Level: A5-F
+------------------------------
+Worker ID: HC259
+Worker Name: Worker 259
+Gender: Male
+Weekly Salary: $15,942
+Employee Level: A1
+------------------------------
+Worker ID: HC260
+Worker Name: Worker 260
+Gender: Female
+Weekly Salary: $27,665
+Employee Level: A5-F
+------------------------------
+Worker ID: HC261
+Worker Name: Worker 261
+Gender: Male
+Weekly Salary: $31,535
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC262
+Worker Name: Worker 262
+Gender: Male
+Weekly Salary: $16,859
+Employee Level: A1
+------------------------------
+Worker ID: HC263
+Worker Name: Worker 263
+Gender: Male
+Weekly Salary: $12,012
+Employee Level: A1
+------------------------------
+Worker ID: HC264
+Worker Name: Worker 264
+Gender: Female
+Weekly Salary: $32,292
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC265
+Worker Name: Worker 265
+Gender: Female
+Weekly Salary: $30,283
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC266
+Worker Name: Worker 266
+Gender: Male
+Weekly Salary: $24,336
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC267
+Worker Name: Worker 267
+Gender: Female
+Weekly Salary: $8,158
+Employee Level: A5-F
+------------------------------
+Worker ID: HC268
+Worker Name: Worker 268
+Gender: Female
+Weekly Salary: $23,649
+Employee Level: A5-F
+------------------------------
+Worker ID: HC269
+Worker Name: Worker 269
+Gender: Female
+Weekly Salary: $20,561
+Employee Level: A5-F
+------------------------------
+Worker ID: HC270
+Worker Name: Worker 270
+Gender: Female
+Weekly Salary: $6,142
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC271
+Worker Name: Worker 271
+Gender: Male
+Weekly Salary: $13,918
+Employee Level: A1
+------------------------------
+Worker ID: HC272
+Worker Name: Worker 272
+Gender: Female
+Weekly Salary: $5,026
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC273
+Worker Name: Worker 273
+Gender: Female
+Weekly Salary: $13,783
+Employee Level: A5-F
+------------------------------
+Worker ID: HC274
+Worker Name: Worker 274
+Gender: Female
+Weekly Salary: $6,752
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC275
+Worker Name: Worker 275
+Gender: Female
+Weekly Salary: $9,622
+Employee Level: A5-F
+------------------------------
+Worker ID: HC276
+Worker Name: Worker 276
+Gender: Male
+Weekly Salary: $32,493
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC277
+Worker Name: Worker 277
+Gender: Male
+Weekly Salary: $14,532
+Employee Level: A1
+------------------------------
+Worker ID: HC278
+Worker Name: Worker 278
+Gender: Male
+Weekly Salary: $34,541
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC279
+Worker Name: Worker 279
+Gender: Male
+Weekly Salary: $25,746
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC280
+Worker Name: Worker 280
+Gender: Male
+Weekly Salary: $33,441
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC281
+Worker Name: Worker 281
+Gender: Female
+Weekly Salary: $25,041
+Employee Level: A5-F
+------------------------------
+Worker ID: HC282
+Worker Name: Worker 282
+Gender: Male
+Weekly Salary: $7,540
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC283
+Worker Name: Worker 283
+Gender: Male
+Weekly Salary: $8,408
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC284
+Worker Name: Worker 284
+Gender: Male
+Weekly Salary: $23,531
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC285
+Worker Name: Worker 285
+Gender: Female
+Weekly Salary: $24,913
+Employee Level: A5-F
+------------------------------
+Worker ID: HC286
+Worker Name: Worker 286
+Gender: Female
+Weekly Salary: $22,619
+Employee Level: A5-F
+------------------------------
+Worker ID: HC287
+Worker Name: Worker 287
+Gender: Female
+Weekly Salary: $33,952
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC288
+Worker Name: Worker 288
+Gender: Male
+Weekly Salary: $6,615
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC289
+Worker Name: Worker 289
+Gender: Female
+Weekly Salary: $28,055
+Employee Level: A5-F
+------------------------------
+Worker ID: HC290
+Worker Name: Worker 290
+Gender: Male
+Weekly Salary: $32,650
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC291
+Worker Name: Worker 291
+Gender: Female
+Weekly Salary: $18,535
+Employee Level: A5-F
+------------------------------
+Worker ID: HC292
+Worker Name: Worker 292
+Gender: Male
+Weekly Salary: $26,222
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC293
+Worker Name: Worker 293
+Gender: Male
+Weekly Salary: $10,641
+Employee Level: A1
+------------------------------
+Worker ID: HC294
+Worker Name: Worker 294
+Gender: Male
+Weekly Salary: $20,337
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC295
+Worker Name: Worker 295
+Gender: Male
+Weekly Salary: $17,946
+Employee Level: A1
+------------------------------
+Worker ID: HC296
+Worker Name: Worker 296
+Gender: Male
+Weekly Salary: $32,948
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC297
+Worker Name: Worker 297
+Gender: Female
+Weekly Salary: $27,189
+Employee Level: A5-F
+------------------------------
+Worker ID: HC298
+Worker Name: Worker 298
+Gender: Female
+Weekly Salary: $19,172
+Employee Level: A5-F
+------------------------------
+Worker ID: HC299
+Worker Name: Worker 299
+Gender: Female
+Weekly Salary: $9,253
+Employee Level: A5-F
+------------------------------
+Worker ID: HC300
+Worker Name: Worker 300
+Gender: Male
+Weekly Salary: $12,084
+Employee Level: A1
+------------------------------
+Worker ID: HC301
+Worker Name: Worker 301
+Gender: Male
+Weekly Salary: $28,081
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC302
+Worker Name: Worker 302
+Gender: Male
+Weekly Salary: $25,577
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC303
+Worker Name: Worker 303
+Gender: Male
+Weekly Salary: $9,915
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC304
+Worker Name: Worker 304
+Gender: Male
+Weekly Salary: $6,332
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC305
+Worker Name: Worker 305
+Gender: Male
+Weekly Salary: $28,210
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC306
+Worker Name: Worker 306
+Gender: Female
+Weekly Salary: $32,673
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC307
+Worker Name: Worker 307
+Gender: Male
+Weekly Salary: $34,812
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC308
+Worker Name: Worker 308
+Gender: Female
+Weekly Salary: $17,933
+Employee Level: A5-F
+------------------------------
+Worker ID: HC309
+Worker Name: Worker 309
+Gender: Female
+Weekly Salary: $18,225
+Employee Level: A5-F
+------------------------------
+Worker ID: HC310
+Worker Name: Worker 310
+Gender: Male
+Weekly Salary: $25,459
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC311
+Worker Name: Worker 311
+Gender: Female
+Weekly Salary: $31,284
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC312
+Worker Name: Worker 312
+Gender: Female
+Weekly Salary: $26,230
+Employee Level: A5-F
+------------------------------
+Worker ID: HC313
+Worker Name: Worker 313
+Gender: Male
+Weekly Salary: $22,440
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC314
+Worker Name: Worker 314
+Gender: Male
+Weekly Salary: $32,751
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC315
+Worker Name: Worker 315
+Gender: Male
+Weekly Salary: $23,829
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC316
+Worker Name: Worker 316
+Gender: Female
+Weekly Salary: $23,405
+Employee Level: A5-F
+------------------------------
+Worker ID: HC317
+Worker Name: Worker 317
+Gender: Male
+Weekly Salary: $30,855
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC318
+Worker Name: Worker 318
+Gender: Female
+Weekly Salary: $13,738
+Employee Level: A5-F
+------------------------------
+Worker ID: HC319
+Worker Name: Worker 319
+Gender: Female
+Weekly Salary: $22,964
+Employee Level: A5-F
+------------------------------
+Worker ID: HC320
+Worker Name: Worker 320
+Gender: Female
+Weekly Salary: $29,562
+Employee Level: A5-F
+------------------------------
+Worker ID: HC321
+Worker Name: Worker 321
+Gender: Female
+Weekly Salary: $29,812
+Employee Level: A5-F
+------------------------------
+Worker ID: HC322
+Worker Name: Worker 322
+Gender: Male
+Weekly Salary: $34,831
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC323
+Worker Name: Worker 323
+Gender: Male
+Weekly Salary: $26,244
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC324
+Worker Name: Worker 324
+Gender: Male
+Weekly Salary: $13,172
+Employee Level: A1
+------------------------------
+Worker ID: HC325
+Worker Name: Worker 325
+Gender: Female
+Weekly Salary: $8,173
+Employee Level: A5-F
+------------------------------
+Worker ID: HC326
+Worker Name: Worker 326
+Gender: Female
+Weekly Salary: $13,057
+Employee Level: A5-F
+------------------------------
+Worker ID: HC327
+Worker Name: Worker 327
+Gender: Male
+Weekly Salary: $27,436
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC328
+Worker Name: Worker 328
+Gender: Male
+Weekly Salary: $18,567
+Employee Level: A1
+------------------------------
+Worker ID: HC329
+Worker Name: Worker 329
+Gender: Male
+Weekly Salary: $34,193
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC330
+Worker Name: Worker 330
+Gender: Male
+Weekly Salary: $34,883
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC331
+Worker Name: Worker 331
+Gender: Female
+Weekly Salary: $5,330
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC332
+Worker Name: Worker 332
+Gender: Male
+Weekly Salary: $19,230
+Employee Level: A1
+------------------------------
+Worker ID: HC333
+Worker Name: Worker 333
+Gender: Male
+Weekly Salary: $18,525
+Employee Level: A1
+------------------------------
+Worker ID: HC334
+Worker Name: Worker 334
+Gender: Male
+Weekly Salary: $24,523
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC335
+Worker Name: Worker 335
+Gender: Female
+Weekly Salary: $9,710
+Employee Level: A5-F
+------------------------------
+Worker ID: HC336
+Worker Name: Worker 336
+Gender: Male
+Weekly Salary: $29,713
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC337
+Worker Name: Worker 337
+Gender: Female
+Weekly Salary: $20,582
+Employee Level: A5-F
+------------------------------
+Worker ID: HC338
+Worker Name: Worker 338
+Gender: Female
+Weekly Salary: $19,690
+Employee Level: A5-F
+------------------------------
+Worker ID: HC339
+Worker Name: Worker 339
+Gender: Male
+Weekly Salary: $24,539
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC340
+Worker Name: Worker 340
+Gender: Male
+Weekly Salary: $16,383
+Employee Level: A1
+------------------------------
+Worker ID: HC341
+Worker Name: Worker 341
+Gender: Female
+Weekly Salary: $13,199
+Employee Level: A5-F
+------------------------------
+Worker ID: HC342
+Worker Name: Worker 342
+Gender: Female
+Weekly Salary: $29,450
+Employee Level: A5-F
+------------------------------
+Worker ID: HC343
+Worker Name: Worker 343
+Gender: Male
+Weekly Salary: $25,655
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC344
+Worker Name: Worker 344
+Gender: Male
+Weekly Salary: $33,812
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC345
+Worker Name: Worker 345
+Gender: Male
+Weekly Salary: $11,673
+Employee Level: A1
+------------------------------
+Worker ID: HC346
+Worker Name: Worker 346
+Gender: Male
+Weekly Salary: $32,166
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC347
+Worker Name: Worker 347
+Gender: Female
+Weekly Salary: $27,225
+Employee Level: A5-F
+------------------------------
+Worker ID: HC348
+Worker Name: Worker 348
+Gender: Male
+Weekly Salary: $13,944
+Employee Level: A1
+------------------------------
+Worker ID: HC349
+Worker Name: Worker 349
+Gender: Female
+Weekly Salary: $34,378
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC350
+Worker Name: Worker 350
+Gender: Female
+Weekly Salary: $7,311
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC351
+Worker Name: Worker 351
+Gender: Male
+Weekly Salary: $30,713
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC352
+Worker Name: Worker 352
+Gender: Female
+Weekly Salary: $8,278
+Employee Level: A5-F
+------------------------------
+Worker ID: HC353
+Worker Name: Worker 353
+Gender: Male
+Weekly Salary: $32,915
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC354
+Worker Name: Worker 354
+Gender: Male
+Weekly Salary: $21,051
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC355
+Worker Name: Worker 355
+Gender: Female
+Weekly Salary: $30,631
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC356
+Worker Name: Worker 356
+Gender: Male
+Weekly Salary: $13,757
+Employee Level: A1
+------------------------------
+Worker ID: HC357
+Worker Name: Worker 357
+Gender: Female
+Weekly Salary: $8,489
+Employee Level: A5-F
+------------------------------
+Worker ID: HC358
+Worker Name: Worker 358
+Gender: Female
+Weekly Salary: $34,132
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC359
+Worker Name: Worker 359
+Gender: Male
+Weekly Salary: $18,514
+Employee Level: A1
+------------------------------
+Worker ID: HC360
+Worker Name: Worker 360
+Gender: Male
+Weekly Salary: $5,588
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC361
+Worker Name: Worker 361
+Gender: Male
+Weekly Salary: $16,876
+Employee Level: A1
+------------------------------
+Worker ID: HC362
+Worker Name: Worker 362
+Gender: Female
+Weekly Salary: $31,766
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC363
+Worker Name: Worker 363
+Gender: Male
+Weekly Salary: $7,445
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC364
+Worker Name: Worker 364
+Gender: Male
+Weekly Salary: $11,399
+Employee Level: A1
+------------------------------
+Worker ID: HC365
+Worker Name: Worker 365
+Gender: Female
+Weekly Salary: $17,976
+Employee Level: A5-F
+------------------------------
+Worker ID: HC366
+Worker Name: Worker 366
+Gender: Female
+Weekly Salary: $5,721
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC367
+Worker Name: Worker 367
+Gender: Male
+Weekly Salary: $31,229
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC368
+Worker Name: Worker 368
+Gender: Male
+Weekly Salary: $34,617
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC369
+Worker Name: Worker 369
+Gender: Male
+Weekly Salary: $15,220
+Employee Level: A1
+------------------------------
+Worker ID: HC370
+Worker Name: Worker 370
+Gender: Female
+Weekly Salary: $9,299
+Employee Level: A5-F
+------------------------------
+Worker ID: HC371
+Worker Name: Worker 371
+Gender: Female
+Weekly Salary: $13,354
+Employee Level: A5-F
+------------------------------
+Worker ID: HC372
+Worker Name: Worker 372
+Gender: Female
+Weekly Salary: $13,665
+Employee Level: A5-F
+------------------------------
+Worker ID: HC373
+Worker Name: Worker 373
+Gender: Male
+Weekly Salary: $9,615
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC374
+Worker Name: Worker 374
+Gender: Female
+Weekly Salary: $30,243
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC375
+Worker Name: Worker 375
+Gender: Male
+Weekly Salary: $6,389
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC376
+Worker Name: Worker 376
+Gender: Male
+Weekly Salary: $23,103
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC377
+Worker Name: Worker 377
+Gender: Female
+Weekly Salary: $14,556
+Employee Level: A5-F
+------------------------------
+Worker ID: HC378
+Worker Name: Worker 378
+Gender: Female
+Weekly Salary: $14,201
+Employee Level: A5-F
+------------------------------
+Worker ID: HC379
+Worker Name: Worker 379
+Gender: Female
+Weekly Salary: $31,209
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC380
+Worker Name: Worker 380
+Gender: Female
+Weekly Salary: $7,116
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC381
+Worker Name: Worker 381
+Gender: Female
+Weekly Salary: $15,507
+Employee Level: A5-F
+------------------------------
+Worker ID: HC382
+Worker Name: Worker 382
+Gender: Male
+Weekly Salary: $19,713
+Employee Level: A1
+------------------------------
+Worker ID: HC383
+Worker Name: Worker 383
+Gender: Female
+Weekly Salary: $5,241
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC384
+Worker Name: Worker 384
+Gender: Female
+Weekly Salary: $32,566
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC385
+Worker Name: Worker 385
+Gender: Male
+Weekly Salary: $12,559
+Employee Level: A1
+------------------------------
+Worker ID: HC386
+Worker Name: Worker 386
+Gender: Male
+Weekly Salary: $12,655
+Employee Level: A1
+------------------------------
+Worker ID: HC387
+Worker Name: Worker 387
+Gender: Female
+Weekly Salary: $10,267
+Employee Level: A5-F
+------------------------------
+Worker ID: HC388
+Worker Name: Worker 388
+Gender: Male
+Weekly Salary: $7,721
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC389
+Worker Name: Worker 389
+Gender: Female
+Weekly Salary: $14,492
+Employee Level: A5-F
+------------------------------
+Worker ID: HC390
+Worker Name: Worker 390
+Gender: Female
+Weekly Salary: $8,070
+Employee Level: A5-F
+------------------------------
+Worker ID: HC391
+Worker Name: Worker 391
+Gender: Male
+Weekly Salary: $19,841
+Employee Level: A1
+------------------------------
+Worker ID: HC392
+Worker Name: Worker 392
+Gender: Male
+Weekly Salary: $19,318
+Employee Level: A1
+------------------------------
+Worker ID: HC393
+Worker Name: Worker 393
+Gender: Female
+Weekly Salary: $20,399
+Employee Level: A5-F
+------------------------------
+Worker ID: HC394
+Worker Name: Worker 394
+Gender: Female
+Weekly Salary: $5,937
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC395
+Worker Name: Worker 395
+Gender: Male
+Weekly Salary: $10,537
+Employee Level: A1
+------------------------------
+Worker ID: HC396
+Worker Name: Worker 396
+Gender: Female
+Weekly Salary: $22,283
+Employee Level: A5-F
+------------------------------
+Worker ID: HC397
+Worker Name: Worker 397
+Gender: Male
+Weekly Salary: $33,560
+Employee Level: Unassigned
+------------------------------
+Worker ID: HC398
+Worker Name: Worker 398
+Gender: Female
+Weekly Salary: $23,806
+Employee Level: A5-F
+------------------------------
+Worker ID: HC399
+Worker Name: Worker 399
+Gender: Female
+Weekly Salary: $9,786
+Employee Level: A5-F
+------------------------------
+Worker ID: HC400
+Worker Name: Worker 400
+Gender: Male
+Weekly Salary: $7,568
+Employee Level: Unassigned
+------------------------------
+
+PROCESSING SUMMARY
+==============================
+Total workers: 400
+Successful payment slips: 400
+Failed payment slips: 0

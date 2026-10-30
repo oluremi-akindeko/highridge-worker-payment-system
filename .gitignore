@@ -1,0 +1,24 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# R history and workspace files
+.Rhistory
+.RData
+.Ruserdata
+
+# VS Code personal settings
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
